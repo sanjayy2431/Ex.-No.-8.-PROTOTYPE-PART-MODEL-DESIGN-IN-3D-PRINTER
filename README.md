@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/main/empd8.jpg)
 
-### Name:
-### Register Number:
+### Name:sanjay.v
+### Register Number:23012749
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
