@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://raw.githubusercontent.com/sanjayy2431/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/main/empd8.jpg)
 
 ### Name:
 ### Register Number:
