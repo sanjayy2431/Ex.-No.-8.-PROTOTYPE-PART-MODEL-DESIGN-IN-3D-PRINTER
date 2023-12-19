@@ -51,4 +51,4 @@
 ### Name:sanjay.v
 ### Register Number:23012749
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+###   Thus a prototype of the given part model is developed using 3D Printer
